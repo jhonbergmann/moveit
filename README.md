@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="readme/icon.png" alt="icon" width="200" height="200">
+  <img src="readme/icon.png" alt="icon" width="100" height="100">
   <br>
   Moveit
   <br>
