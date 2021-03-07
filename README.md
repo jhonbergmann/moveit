@@ -12,7 +12,7 @@
   <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/moveit" />
 </p>
 
-<p align="center">🤸🏻 Moveit | Projeto desenvolvido no NLW4 🤸🏻</p>
+<p align="center">🤸🏻 Moveit | Projeto Desenvolvido no NLW4 🤸🏻</p>
 
 
 ## 🔺 Vercel 
