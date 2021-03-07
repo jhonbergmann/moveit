@@ -15,8 +15,8 @@
 <p align="center">🤸🏻 Moveit | Projeto desenvolvido no NLW4 🤸🏻</p>
 
 
-## 🔷 Netlify
-
+## 🔺 Vercel 
+### [Live Demo - Clique aqui!](https://moveit-beta-ten.vercel.app/)
 
 ## 📅 Sobre
 
