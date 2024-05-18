@@ -12,11 +12,11 @@
   <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/moveit" />
 </p>
 
-<p align="center">🤸🏻 Moveit | Projeto Desenvolvido no NLW4 🤸🏻</p>
+<p align="center">🤸🏻 Moveit 🤸🏻</p>
 
 
 ## 🔺 Vercel 
-### [Live Demo - Clique aqui!](https://moveit-beta-ten.vercel.app/)
+### [Live Demo - Clique aqui!](https://moveit-kohl-gamma.vercel.app/)
 
 ## 📅 Sobre
 
@@ -31,9 +31,6 @@ Foram usadas essas tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
-- [Yarn](https://yarnpkg.com/)
-
-*Foram usados outros, mas esses são os principais.*
 
 ## ***</>*** Como usar o código?
 1. Instale o **Yarn** em seu computador
@@ -42,7 +39,7 @@ Foram usadas essas tecnologias:
 
 ### 🌐 Rodando
 1. Acesse o diretório e dê o comando `yarn install`
-1. Acesse a pasta *web* e dê o comando `yarn dev`
+1. Acesse a pasta e dê o comando `yarn dev`
 1. Acesse em seu navegador a seguinte url `http://localhost:3000`
 
 ## 📝 Licença
